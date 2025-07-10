@@ -1,1 +1,1 @@
-=> https://myserverspace.github.io/internalweb
+=> https://myserverspace.github.io/web
